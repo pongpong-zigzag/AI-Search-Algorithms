@@ -5,7 +5,7 @@ In Naboo Planet the R2-D2 droid is serving her Queen Amidala and has received so
 As soon as Dark Lord finds this out, he sends his army after R2D2 to recover the documents from him.  Fearing the Darth's Army, R2D2 hides in a Cave. While entering the cave R2D2 has found a map of the cave and It knows that it is at grid location 0 and needs to reach grid 61 to go out of the Cave.  
   
   
-![grid image](https://github.com/pongpong-zigzag/AI-Search-Algorithms-Implementations/main/images/search_grid.png)
+![grid image](https://github.com/pongpong-zigzag/AI-Search-Algorithms-Implementations/blob/main/images/search_grid.png)
   
 Darth's Army has got to know that R2D2 is hiding in the cave and set up the explosives in the cave that will go off after a certain time.  
   
