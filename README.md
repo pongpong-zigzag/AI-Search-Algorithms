@@ -157,4 +157,4 @@ As we can see in the results above, A* Search algorithm is really a "smart" sear
 And it is also worth mentioning that many games and web-based maps use this algorithm to find the shortest path very efficiently.
 
 The code used in this article and the complete working example can be found the git repository below:
-[https://github.com/fakemonk1/AI-Search-Algorithms-Implementations](https://github.com/pongpong-zigzag/AI-Search-Algorithms-Implementations)
+[https://github.com/pongpong-zigzag/AI-Search-Algorithms-Implementations](https://github.com/pongpong-zigzag/AI-Search-Algorithms-Implementations)
