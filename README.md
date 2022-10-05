@@ -5,7 +5,7 @@ In Naboo Planet the R2-D2 droid is serving her Queen Amidala and has received so
 As soon as Dark Lord finds this out, he sends his army after R2D2 to recover the documents from him.  Fearing the Darth's Army, R2D2 hides in a Cave. While entering the cave R2D2 has found a map of the cave and It knows that it is at grid location 0 and needs to reach grid 61 to go out of the Cave.  
   
   
-![grid image](https://raw.githubusercontent.com/fakemonk1/AI-Search-Algorithms-Implementations/master/images/search_grid.png)
+![grid image](https://raw.githubusercontent.com/pongpong-zigzag/AI-Search-Algorithms-Implementations/master/images/search_grid.png)
   
 Darth's Army has got to know that R2D2 is hiding in the cave and set up the explosives in the cave that will go off after a certain time.  
   
@@ -26,7 +26,7 @@ R2D2 will follow the following rules for Searching the cave (this logic is hardc
   
 **R2D2 has been instructed to use Uniform Cost Search algorithm to get out of the maze. If R2D2 uses a Uniform Cost Search, how long will it take him to escape the Cave?**   
 Below is the Pseudo code of Uniform Cost Search  
-![UCS_Pseudo code](https://github.com/fakemonk1/AI-Search-Algorithms-Implementations/blob/master/images/UCS_pseudocode.png?raw=true)
+![UCS_Pseudo code](https://github.com/pongpong-zigzag/AI-Search-Algorithms-Implementations/blob/master/images/UCS_pseudocode.png?raw=true)
 
   
 Let us try to find the answer by implementing and writing the code for Uniform cost search algorithm.
@@ -157,4 +157,4 @@ As we can see in the results above, A* Search algorithm is really a "smart" sear
 And it is also worth mentioning that many games and web-based maps use this algorithm to find the shortest path very efficiently.
 
 The code used in this article and the complete working example can be found the git repository below:
-[https://github.com/fakemonk1/AI-Search-Algorithms-Implementations](https://github.com/fakemonk1/AI-Search-Algorithms-Implementations)
+[https://github.com/fakemonk1/AI-Search-Algorithms-Implementations](https://github.com/pongpong-zigzag/AI-Search-Algorithms-Implementations)
